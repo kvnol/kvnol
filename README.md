@@ -1,5 +1,5 @@
-### Olá! Meu nome é Kevin Oliveira.
-#### Sou católico, músico, designer e front-end.
+### Hi there!
+#### I'm Catholic, musician, designer and front-end.
 
 <!--
 **kvnol/kvnol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
