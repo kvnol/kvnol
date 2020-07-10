@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there! 😄
 #### I'm Catholic, musician, designer and front-end.
 
 <!--
