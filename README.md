@@ -1,3 +1,3 @@
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kvnol&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20" width="490"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnol&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9" width="346">
-</p>
+Comecei a mexer em códigos em 2009 quando criei um blog pessoal e queria saber como alterar as cores e colocar imagens e links na sidebar, desta forma estou aqui até hoje.
+
+Nascido em 1997 cidade de Santo André, São Paulo, sou desenvolvedor front-end e designer. Atualmente trabalho na Din Digital e sou músico nas horas vagas.
