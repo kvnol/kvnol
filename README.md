@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://kevinoliveira.com.br/" target="_blank" title="Ver mais informações no meu site!"><img src="https://github.com/kvnol/kvnol/assets/3299130/6ceed7f8-d130-4a80-8cd5-fc60324dd851" alt="Imagem de apresentação do Kevin Oliveira. Católico, músico, designer e front-end."></a>
+<a href="https://kevinoliveira.com.br/" target="_blank" title="Ver mais informações no meu site!"><img src="https://github.com/kvnol/kvnol/assets/3299130/39e7ea7a-f2a2-4957-90cd-7ad3a1ba552d" alt="Imagem de apresentação do Kevin Oliveira. Católico, músico, designer e front-end."></a>
 </p>
 
 <p align="center">
