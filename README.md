@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvnol&theme=dark&count_private=true&show_icons=true&title_color=4C42FF&icon_color=4C42FF&line_height=20" width="419">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnol&theme=dark&layout=compact&show_icons=true&title_color=4C42FF&icon_color=4C42FF" width="270">
+  <img src="https://github-readme-stats.vercel.app/api?username=kvnol&theme=dark&count_private=true&show_icons=true&title_color=4C42FF&icon_color=4C42FF&line_height=20" width="510">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnol&theme=dark&layout=compact&show_icons=true&title_color=4C42FF&icon_color=4C42FF" width="328">
 </p>
