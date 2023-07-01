@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvnol&theme=dark&count_private=true&show_icons=true&title_color=4C42FF&icon_color=4C42FF&line_height=20" width="510">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnol&theme=dark&layout=compact&show_icons=true&title_color=4C42FF&icon_color=4C42FF" width="328">
+  <img src="https://github-readme-stats.vercel.app/api?username=kvnol&theme=dark&count_private=true&show_icons=true&title_color=4C42FF&icon_color=4C42FF&line_height=20" width="60.28%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnol&theme=dark&layout=compact&show_icons=true&title_color=4C42FF&icon_color=4C42FF" width="38.77%">
 </p>
 
 [![](https://img.shields.io/badge/website-4C42FF?style=for-the-badge&logo=About.me&logoColor=white)](https://kevinoliveira.com.br/)
