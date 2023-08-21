@@ -1,4 +1,4 @@
-[![](https://github.com/kvnol/kvnol/assets/3299130/39e7ea7a-f2a2-4957-90cd-7ad3a1ba552d)](https://kevinoliveira.com.br/)
+[![](https://github.com/kvnol/kvnol/assets/3299130/59ff613b-0fec-4a47-af93-5e5bd843e4a2)](https://kevinoliveira.com.br/)
 
 
 <p align="center">
